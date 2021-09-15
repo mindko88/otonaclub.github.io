@@ -1,0 +1,36 @@
+/* common */
+common {
+  background: #807070;
+  width="100%"
+  height="100%">
+} 
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0; 
+}
+
+
+
+.item {
+  width: 10em;
+}
+
+
+/* header */  
+
+
+/* mein */
+
+
+
+/* footer */
+
+.call-to-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0; 
+}
